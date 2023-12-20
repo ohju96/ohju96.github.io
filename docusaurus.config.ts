@@ -3,8 +3,8 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: '웰시토끼',
-  tagline: '웰시토끼 블로그',
+  title: '주현',
+  tagline: '주현의 블로그',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -44,8 +44,8 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          blogTitle: '웰시토끼의 기술 블로그',
-          blogDescription: '웰시토끼의 기술 블로그입니다.',
+          blogTitle: '주현의 기술 블로그',
+          blogDescription: '주현의 기술 블로그입니다.',
           postsPerPage: 'ALL',
           blogSidebarTitle: 'All posts',
           blogSidebarCount: 'ALL',
@@ -63,7 +63,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: '웰시토끼',
+      title: '주현',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -75,14 +75,11 @@ const config: Config = {
           position: 'left',
           label: '공부',
         },
-        { to: '/dev', label: '개발', position: 'left' },
+        { to: '/dev', label: '개발', position: 'left'},
         {
-          to: '/life',
-          label: '일상',
-          position: 'left',
-        },
+          to: '/life', label: '일상', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/ohju96',
           label: 'GitHub',
           position: 'right',
         },

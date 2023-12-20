@@ -29,7 +29,7 @@ function HomepageHeader() {
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout title={`안녕, 세상!`} description='Description will go into a meta tag in <head />'>
+    <Layout title={`읽고 듣고 쓰기`} description='읽고 듣고 쓰다보면 고수가 된다는 이야기 <head />'>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
