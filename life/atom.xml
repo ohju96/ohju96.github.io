@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ohju96.github.io/life</id>
-    <title>웰시토끼 Blog</title>
+    <title>주현 Blog</title>
     <updated>2019-05-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ohju96.github.io/life"/>
-    <subtitle>웰시토끼 Blog</subtitle>
+    <subtitle>주현 Blog</subtitle>
     <icon>https://ohju96.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
