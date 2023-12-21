@@ -70,15 +70,16 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
+          to: '/docs',
+          type: 'docsSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: '공부',
         },
         {
           to: '/service',
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          type: 'serviceSidebar',
+          sidebarId: 'serviceSidebar',
           position: 'left',
           label: '서비스',
         },
