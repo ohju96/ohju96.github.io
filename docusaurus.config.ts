@@ -76,6 +76,7 @@ const config: Config = {
           label: '공부',
         },
         {
+          to: '/service',
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
