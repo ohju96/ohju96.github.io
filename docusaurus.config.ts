@@ -3,7 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: '주현:)',
+  title: '주 현 :)',
   tagline: '읽고 듣고 쓰고 말하고 밥먹고 코딩하고 자고 일어나고',
   favicon: 'img/favicon.ico',
 
@@ -106,6 +106,10 @@ const config: Config = {
             {
               label: 'Velog (Deprecated)',
               href: 'https://velog.io/@ohju96',
+            },
+            {
+              label: 'Tistory (Deprecated)',
+              href: 'https://ohju.tistory.com',
             },
             {
               label: 'GitHub',
