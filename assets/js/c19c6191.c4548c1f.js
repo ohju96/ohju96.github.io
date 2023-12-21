@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5969],{7113:e=>{e.exports=JSON.parse('{"permalink":"/dev","page":1,"postsPerPage":4,"totalPages":1,"totalCount":4,"blogDescription":"\uc8fc\ud604\uc758 \uae30\uc220 \ube14\ub85c\uadf8\uc785\ub2c8\ub2e4.","blogTitle":"\uc8fc\ud604\uc758 \uae30\uc220 \ube14\ub85c\uadf8"}')}}]);
