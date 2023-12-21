@@ -3,8 +3,8 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: '주현',
-  tagline: '주현의 블로그',
+  title: '주현:)',
+  tagline: '읽고 듣고 쓰고 말하고 밥먹고 코딩하고 자고 일어나고',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -75,9 +75,21 @@ const config: Config = {
           position: 'left',
           label: '공부',
         },
-        { to: '/dev', label: '개발', position: 'left'},
         {
-          to: '/life', label: '일상', position: 'left'},
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: '서비스',
+        },
+        { to: '/dev',
+          label: '개발',
+          position: 'left'
+        },
+        {
+          to: '/life',
+          label: '일상',
+          position: 'left'
+        },
         {
           href: 'https://github.com/ohju96',
           label: 'GitHub',
