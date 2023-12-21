@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ohju96.github.io/life</id>
-    <title>주현:) Blog</title>
-    <updated>2019-05-28T00:00:00.000Z</updated>
+    <title>주 현 :) Blog</title>
+    <updated>2023-12-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ohju96.github.io/life"/>
-    <subtitle>주현:) Blog</subtitle>
+    <subtitle>주 현 :) Blog</subtitle>
     <icon>https://ohju96.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://ohju96.github.io/life/first-blog-post</id>
-        <link href="https://ohju96.github.io/life/first-blog-post"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <title type="html"><![CDATA[나의 첫 번째 퇴사 회고]]></title>
+        <id>https://ohju96.github.io/life/나의 첫 번째 퇴사 회고</id>
+        <link href="https://ohju96.github.io/life/나의 첫 번째 퇴사 회고"/>
+        <updated>2023-12-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[준비중..]]></summary>
+        <content type="html"><![CDATA[<p>준비중..</p>]]></content>
         <author>
-            <name>Gao Wei</name>
-            <uri>https://github.com/wgao19</uri>
+            <name>Juhyeon Oh</name>
+            <uri>https://github.com/ohju96</uri>
         </author>
-        <category label="hola" term="hola"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <category label="회고" term="회고"/>
     </entry>
 </feed>

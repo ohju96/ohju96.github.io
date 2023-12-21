@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[721],{1716:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\ub098\uc758 \uccab \ubc88\uc9f8 \ud1f4\uc0ac \ud68c\uace0","permalink":"/life/\ub098\uc758 \uccab \ubc88\uc9f8 \ud1f4\uc0ac \ud68c\uace0","unlisted":false}]}')}}]);
