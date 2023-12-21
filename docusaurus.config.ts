@@ -77,8 +77,8 @@ const config: Config = {
         },
         {
           to: '/service',
-          type: 'serviceSidebar',
-          sidebarId: 'serviceSidebar',
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
           position: 'left',
           label: '서비스',
         },
