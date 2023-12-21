@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ohju96.github.io/dev</id>
-    <title>주현 Blog</title>
+    <title>주현:) Blog</title>
     <updated>2023-12-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ohju96.github.io/dev"/>
-    <subtitle>주현 Blog</subtitle>
+    <subtitle>주현:) Blog</subtitle>
     <icon>https://ohju96.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[도달도달 프로젝트 데이터베이스만 참여하기]]></title>
