@@ -44,7 +44,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          blogTitle: '주현의 기술 블로그',
+          blogTitle: '읽고 듣고 쓰고 말하고 밥먹고 코딩하고 자고 일어나고',
           blogDescription: '주현의 기술 블로그입니다.',
           postsPerPage: 'ALL',
           blogSidebarTitle: 'All posts',
@@ -63,7 +63,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: '주현',
+      title: '주현:)',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
