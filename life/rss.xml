@@ -10,14 +10,14 @@
         <language>ko</language>
         <item>
             <title><![CDATA[2023은 경험을 쌓는 시간이었다.]]></title>
-            <link>https://ohju96.github.io/life/2023은 경험을 쌓는 시간이었다.</link>
-            <guid>https://ohju96.github.io/life/2023은 경험을 쌓는 시간이었다.</guid>
+            <link>https://ohju96.github.io/life/1</link>
+            <guid>https://ohju96.github.io/life/1</guid>
             <pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[2023년 처음으로 개발자로 스타트업에 취업해서 성장해 나가면서 쌓은 경험과 그 과정을 되돌아보고 결국 퇴사하게 된 여정까지 같이 되돌아 보는 글을 작성하려고 한다.]]></description>
             <content:encoded><![CDATA[<p>2023년 처음으로 개발자로 스타트업에 취업해서 성장해 나가면서 쌓은 경험과 그 과정을 되돌아보고 결국 퇴사하게 된 여정까지 같이 되돌아 보는 글을 작성하려고 한다.</p>
 <p>2022년 10월에 첫 취업을 기념하며 <a href="https://velog.io/@ohju96/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B3%B5%EB%B6%80-%EC%8B%9C%EC%9E%91%EB%B6%80%ED%84%B0-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EC%97%85%EA%B9%8C%EC%A7%80%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0#7-%EB%A9%B4%EC%A0%91%EA%B3%BC-%EB%81%9D%EC%9C%BC%EB%A1%9C" target="_blank" rel="noopener noreferrer">백엔드 개발자 공부 시작부터 신입 개발자 취업까지의 이야기</a>를 작성했었는데 이때는 사회에 덜 찌든 어리버리 개발자였다면 지금은 지독한 산전수전 겪은 개발자가 되었다.</p>
 <p>그럼 이제 1년과 내가 지나온 산과 물을 천천히 풀어보도록 하자!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="네-백엔드-개발자가-저-혼자라고요">네? 백엔드 개발자가 저 혼자라고요?..<a href="https://ohju96.github.io/life/2023%EC%9D%80%20%EA%B2%BD%ED%97%98%EC%9D%84%20%EC%8C%93%EB%8A%94%20%EC%8B%9C%EA%B0%84%EC%9D%B4%EC%97%88%EB%8B%A4.#%EB%84%A4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A0%80-%ED%98%BC%EC%9E%90%EB%9D%BC%EA%B3%A0%EC%9A%94" class="hash-link" aria-label="네? 백엔드 개발자가 저 혼자라고요?..에 대한 직접 링크" title="네? 백엔드 개발자가 저 혼자라고요?..에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="네-백엔드-개발자가-저-혼자라고요">네? 백엔드 개발자가 저 혼자라고요?..<a href="https://ohju96.github.io/life/1#%EB%84%A4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A0%80-%ED%98%BC%EC%9E%90%EB%9D%BC%EA%B3%A0%EC%9A%94" class="hash-link" aria-label="네? 백엔드 개발자가 저 혼자라고요?..에 대한 직접 링크" title="네? 백엔드 개발자가 저 혼자라고요?..에 대한 직접 링크">​</a></h2>
 <p>이야 첫 취업이다! 유저의 피드백을 받고 소통하며 개발할 수 있는 서비스 스타트업이라니 너무 좋다. 헉! 고년차 개발자는 안 계시네 그래도 3년차도 계시고 좀 빠른 동기 개발자도 있으니까 잘 배우고 공유하면서 서비스를 발전시켜가야지!</p>
 <p>는.. 내 꿈이었다. 들어가보니 3년차 개발자는 퇴사가 예정되어 있었고 나보다 1달 빨리 들어온 동기(?)는 온갖 인수인계는 다 받아놓고 당일 런을 하셨다. 내가 이때 힘들었던 부분, 아니 충격이 컸던 부분은 이런 대화였다.</p>
 <p>때는 금요일 퇴근 후 회사 앞에서 주니어 둘이 막막함을 서로 공유하던 시간이었다.</p>
@@ -40,7 +40,7 @@
 <p>"에?.."</p>
 </blockquote>
 <p><code>ㅈ댔다..</code>라는 생각이 들었다. 나는 이런 곳에서 살아남았다. 강자다. 지금은 그만두었으니 약자인가? 강해서 살아남은 게 아니라 살아남아서 강한 것이라고 하던데 역시 나는 약자인가보다. 뭔 소린지 모르겠다. 패스</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="도대체-다른-회사는-문서화를-어떻게-하는-거지">도대체 다른 회사는 문서화를 어떻게 하는 거지..?<a href="https://ohju96.github.io/life/2023%EC%9D%80%20%EA%B2%BD%ED%97%98%EC%9D%84%20%EC%8C%93%EB%8A%94%20%EC%8B%9C%EA%B0%84%EC%9D%B4%EC%97%88%EB%8B%A4.#%EB%8F%84%EB%8C%80%EC%B2%B4-%EB%8B%A4%EB%A5%B8-%ED%9A%8C%EC%82%AC%EB%8A%94-%EB%AC%B8%EC%84%9C%ED%99%94%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%8A%94-%EA%B1%B0%EC%A7%80" class="hash-link" aria-label="도대체 다른 회사는 문서화를 어떻게 하는 거지..?에 대한 직접 링크" title="도대체 다른 회사는 문서화를 어떻게 하는 거지..?에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="도대체-다른-회사는-문서화를-어떻게-하는-거지">도대체 다른 회사는 문서화를 어떻게 하는 거지..?<a href="https://ohju96.github.io/life/1#%EB%8F%84%EB%8C%80%EC%B2%B4-%EB%8B%A4%EB%A5%B8-%ED%9A%8C%EC%82%AC%EB%8A%94-%EB%AC%B8%EC%84%9C%ED%99%94%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%8A%94-%EA%B1%B0%EC%A7%80" class="hash-link" aria-label="도대체 다른 회사는 문서화를 어떻게 하는 거지..?에 대한 직접 링크" title="도대체 다른 회사는 문서화를 어떻게 하는 거지..?에 대한 직접 링크">​</a></h2>
 <p>어쨌든 살아남은 사람은 할 일을 해야 했으니 문서를 만들면서 코드를 분석했다. 처음에는 데이터베이스 관계도부터 뽑았다. 놀랍게 뭐 아무것도 문서가 없어서 데이터베이스의 해당 컬럼이 무엇을 뜻하는지 조차 알기 어려운 부분도 있었다.</p>
 <p>그냥 야생이다. 나는 타잔이고 가자 일단. 살아남자. 라는 생각으로 모르면 바로바로 CTO님한테 가서 물어봤다. 근데 CTO분이 프론트 개발자라 백엔드 코드를 잘 알지 못 하셨고 서비스에서 사용하는 용어 정도는 잘 알고 계셔서 많은 도움을 받을 수 있었다.</p>
 <p>문서는 내가 보기 편한대로 정리했다. 문서에 목차를 두고 태그를 달아 분리했다. 코드 모듈화 하듯 문서 모듈화를 진행했다. 끝내준다. 어차피 클린 코드고 뭐고 다 깔끔히 정리하는 게 기본 아니겠나.</p>
@@ -51,7 +51,7 @@
 <p>내 문서 말고 외주 업체에서 준 문서를 보고 든 생각이었다. 마음 속에 있는 저런 회사는 가지 말아야지에서 <code>저런</code>리스트에 그 외주 업체의 이름을 넣어두었다. 별로 도움이 되지 않았다.</p>
 <p>나는 생각을 고쳐 먹었다. 문서란 무엇인가. 읽고 이해하는 도구이다. 반대로는 읽고 이해하기 위해 기록하는 도구이겠지 내가 작성한 문서가 국룰인가? 이런 고민은 생각보다 필요가 없었다. 누군가 읽고 이해하기 쉽나? 이부분에 집중하면 된다.</p>
 <p>차곡차곡.. 문서 만들고 대표님과 미팅하면서 공유..를 반복하다가 한달 정도 지나니까 새로운 프로젝트를 들어가게 되었다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="처음으로-혼자-개발해-보는-진짜-서비스">처음으로 혼자 개발해 보는 진짜 서비스!<a href="https://ohju96.github.io/life/2023%EC%9D%80%20%EA%B2%BD%ED%97%98%EC%9D%84%20%EC%8C%93%EB%8A%94%20%EC%8B%9C%EA%B0%84%EC%9D%B4%EC%97%88%EB%8B%A4.#%EC%B2%98%EC%9D%8C%EC%9C%BC%EB%A1%9C-%ED%98%BC%EC%9E%90-%EA%B0%9C%EB%B0%9C%ED%95%B4-%EB%B3%B4%EB%8A%94-%EC%A7%84%EC%A7%9C-%EC%84%9C%EB%B9%84%EC%8A%A4" class="hash-link" aria-label="처음으로 혼자 개발해 보는 진짜 서비스!에 대한 직접 링크" title="처음으로 혼자 개발해 보는 진짜 서비스!에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="처음으로-혼자-개발해-보는-진짜-�서비스">처음으로 혼자 개발해 보는 진짜 서비스!<a href="https://ohju96.github.io/life/1#%EC%B2%98%EC%9D%8C%EC%9C%BC%EB%A1%9C-%ED%98%BC%EC%9E%90-%EA%B0%9C%EB%B0%9C%ED%95%B4-%EB%B3%B4%EB%8A%94-%EC%A7%84%EC%A7%9C-%EC%84%9C%EB%B9%84%EC%8A%A4" class="hash-link" aria-label="처음으로 혼자 개발해 보는 진짜 서비스!에 대한 직접 링크" title="처음으로 혼자 개발해 보는 진짜 서비스!에 대한 직접 링크">​</a></h2>
 <blockquote>
 <p>"저는 주현님이 개발하는 것을 보고 싶어요."</p>
 </blockquote>
@@ -59,7 +59,7 @@
 <p>이미 유니티 팀에서 Firebase를 사용해서 만들 것을 염두해서 데이터를 어떻게 쌓을 것 인지 결정해 두었기 때문에 그것을 기반으로 데이터베이스를 설계했다. 사실 설계라고 하기엔 좀 그렇고 JSON 구조를 ERD로 펴서 진행했다.</p>
 <p>뭐 간단한 API 서버여서 그런지 대충한 3주 잡고 2주만에 끝내고 나머지 1주를 유지보수를 진행했다.</p>
 <p>재밌었다. 이거다. 싶었다. 역시 문서화 보다는 개발이 재밌긴 하다. 크.. 끝내준다. 가자! JAVA ! JAVA !</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="golang이-뭔데요">Golang이 뭔데요..?<a href="https://ohju96.github.io/life/2023%EC%9D%80%20%EA%B2%BD%ED%97%98%EC%9D%84%20%EC%8C%93%EB%8A%94%20%EC%8B%9C%EA%B0%84%EC%9D%B4%EC%97%88%EB%8B%A4.#golang%EC%9D%B4-%EB%AD%94%EB%8D%B0%EC%9A%94" class="hash-link" aria-label="Golang이 뭔데요..?에 대한 직접 링크" title="Golang이 뭔데요..?에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="golang이-뭔데요">Golang이 뭔데요..?<a href="https://ohju96.github.io/life/1#golang%EC%9D%B4-%EB%AD%94%EB%8D%B0%EC%9A%94" class="hash-link" aria-label="Golang이 뭔데요..?에 대한 직접 링크" title="Golang이 뭔데요..?에 대한 직접 링크">​</a></h2>
 <blockquote>
 <p>"우리 서비스를 데이터베이스부터 다시 설계해서 Golang으로 진행할 건데 남을거에요?"</p>
 </blockquote>
@@ -74,7 +74,7 @@
 </blockquote>
 <p>알트만 형님 감사합니다. 당신이 내 스승이에요. 날 살렸어 이놈 왜케 잘 알려주지. 이정도면 충분하다. 앞으로 CRUD를 배우려거든 GPT에게로!</p>
 <p>코드를 깔끔하게 짠다. 이런건 기대하지 말자 그래도 간단한 문법과 어떻게 사용할 수 있는지 흐름을 알 수 있었다. CRUD를 시작으로 조금씩 변형을 주면서 크론을 돌려보던가 API를 만들어서 쏴보고 패턴을 잡아가며 우리 회사의 프로젝트 구조를 어떻게 가져가는 게 좋을지 한참 고민했다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="하-옳�지-않은-건-도저히-못-하겠는데요-이건-아닌거-같아요">하.. 옳지 않은 건 도저히 못 하겠는데요.. 이건 아닌거 같아요.<a href="https://ohju96.github.io/life/2023%EC%9D%80%20%EA%B2%BD%ED%97%98%EC%9D%84%20%EC%8C%93%EB%8A%94%20%EC%8B%9C%EA%B0%84%EC%9D%B4%EC%97%88%EB%8B%A4.#%ED%95%98-%EC%98%B3%EC%A7%80-%EC%95%8A%EC%9D%80-%EA%B1%B4-%EB%8F%84%EC%A0%80%ED%9E%88-%EB%AA%BB-%ED%95%98%EA%B2%A0%EB%8A%94%EB%8D%B0%EC%9A%94-%EC%9D%B4%EA%B1%B4-%EC%95%84%EB%8B%8C%EA%B1%B0-%EA%B0%99%EC%95%84%EC%9A%94" class="hash-link" aria-label="하.. 옳지 않은 건 도저히 못 하겠는데요.. 이건 아닌거 같아요.에 대한 직접 링크" title="하.. 옳지 않은 건 도저히 못 하겠는데요.. 이건 아닌거 같아요.에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="하-옳지-않은-건-도저히-못-하겠는�데요-이건-아닌거-같아요">하.. 옳지 않은 건 도저히 못 하겠는데요.. 이건 아닌거 같아요.<a href="https://ohju96.github.io/life/1#%ED%95%98-%EC%98%B3%EC%A7%80-%EC%95%8A%EC%9D%80-%EA%B1%B4-%EB%8F%84%EC%A0%80%ED%9E%88-%EB%AA%BB-%ED%95%98%EA%B2%A0%EB%8A%94%EB%8D%B0%EC%9A%94-%EC%9D%B4%EA%B1%B4-%EC%95%84%EB%8B%8C%EA%B1%B0-%EA%B0%99%EC%95%84%EC%9A%94" class="hash-link" aria-label="하.. 옳지 않은 건 도저히 못 하겠는데요.. 이건 아닌거 같아요.에 대한 직접 링크" title="하.. 옳지 않은 건 도저히 못 하겠는데요.. 이건 아닌거 같아요.에 대한 직접 링크">​</a></h2>
 <p>아 끝! 위에서 이제 어느정도 Golnag, Gin-gonic, ent orm 사용법을 익혔다. 자자 이제 간단한 API 먼저 시작해 봐야지!</p>
 <blockquote>
 <p>"저는 어떤거 개발 시작할까요?"</p>
@@ -87,7 +87,7 @@
 </blockquote>
 <p><code>ㅈ댔다..</code>라는 생각은 왜케 자꾸 나는지 모르겠다. 내 첫 번째 목표는 이 구조를 변경하는 것이다. 그래도 내가 뚜렷한 주장을 하기 어려웠던 게 Golang은 좀 다른가 싶었다.</p>
 <p>근데 뭐 찾아봐도 뭐가 나와야지.. Golang 샘플 코드도 없고 이걸로 웹 백엔드 개발한 프로젝트는 찾기도 어려웠다. 결국 회사에 신청해서 어디 카카오 클라우드 개발자가 해주는 웹 백엔드 Golang 실시간 단체 과외였다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="이런-구조로-리팩터링하시죠-제안합니다">이런 구조로 리팩터링하시죠. 제안합니다!<a href="https://ohju96.github.io/life/2023%EC%9D%80%20%EA%B2%BD%ED%97%98%EC%9D%84%20%EC%8C%93%EB%8A%94%20%EC%8B%9C%EA%B0%84%EC%9D%B4%EC%97%88%EB%8B%A4.#%EC%9D%B4%EB%9F%B0-%EA%B5%AC%EC%A1%B0%EB%A1%9C-%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%ED%95%98%EC%8B%9C%EC%A3%A0-%EC%A0%9C%EC%95%88%ED%95%A9%EB%8B%88%EB%8B%A4" class="hash-link" aria-label="이런 구조로 리팩터링하시죠. 제안합니다!에 대한 직접 링크" title="이런 구조로 리팩터링하시죠. 제안합니다!에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="이런-구조로-리팩터링하시죠-제안합니다">이런 구조로 리팩터링하시죠. 제안합니다!<a href="https://ohju96.github.io/life/1#%EC%9D%B4%EB%9F%B0-%EA%B5%AC%EC%A1%B0%EB%A1%9C-%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%ED%95%98%EC%8B%9C%EC%A3%A0-%EC%A0%9C%EC%95%88%ED%95%A9%EB%8B%88%EB%8B%A4" class="hash-link" aria-label="이런 구조로 리팩터링하시죠. 제안합니다!에 대한 직접 링크" title="이런 구조로 리팩터링하시죠. 제안합니다!에 대한 직접 링크">​</a></h2>
 <p>과외에서 진짜 열심히 했다. 물론 잘 몰라서 내다 버린 부분도 있지만 과외 내용은 회사에서 사용하고 있는 부분이 많아서 이해하는데 크게 어려움은 없었고 나는 과외 선생님과 1대1 대화를 할 수 있는 채팅방이 제공되서 너무 좋았다.</p>
 <p>과외는 주 1회였는데 나는 그때마다 간단한 gin 프로젝트 패키지를 생성하고 프로젝트 구조를 잡아 코드 리뷰를 신청해서 카톡으로 피드백을 받았다. 그렇게 golnag에서 의존성을 주입 받아 패키지를 관리하고 에러 리턴이라던가 미들웨어 사용하는 방법 등 조금 더 자세히 알게 되었다.</p>
 <p>이를 토대로 우리 회사에 어떻게 적용하면 좋을지 고민하고 지금 회사 코드를 왜 내가 제안하는 구조로 변경해야 하는지 문서를 작성해서 단체 미팅을 열고 공유드렸다.</p>
@@ -97,7 +97,7 @@
 <p>V2다. 전체 리팩터링 가즈아~!아아..아..아? 바꿔야 하는 API가 벌써 130개 이상이라고요?.. 앞으로 개발할 게 산더미고.. 고..공장인가요? 하.. 인생이요..</p>
 <p>"제가 시간 남을 때 바꿔둘게요 그럼 새로운 패키지 구조 잡아두고 사용법 공유드릴테니 앞으로 개발하는 API는 이렇게 가시죠."</p>
 <p>역시.. 개발자는 의사소통이다. 남은거 뒷 처리는 내가 한다고 하고 일단 변경된 구조로 프로젝트를 동시에 이어가기로 했다. 나 혼자 리팩터링에 돌입했다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="또-나가-걍-다-나가">또 나가? 걍 다 나가!<a href="https://ohju96.github.io/life/2023%EC%9D%80%20%EA%B2%BD%ED%97%98%EC%9D%84%20%EC%8C%93%EB%8A%94%20%EC%8B%9C%EA%B0%84%EC%9D%B4%EC%97%88%EB%8B%A4.#%EB%98%90-%EB%82%98%EA%B0%80-%EA%B1%8D-%EB%8B%A4-%EB%82%98%EA%B0%80" class="hash-link" aria-label="또 나가? 걍 다 나가!에 대한 직접 링크" title="또 나가? 걍 다 나가!에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="또-나가-걍-다-나가">또 나가? 걍 다 나가!<a href="https://ohju96.github.io/life/1#%EB%98%90-%EB%82%98%EA%B0%80-%EA%B1%8D-%EB%8B%A4-%EB%82%98%EA%B0%80" class="hash-link" aria-label="또 나가? 걍 다 나가!에 대한 직접 링크" title="또 나가? 걍 다 나가!에 대한 직접 링크">​</a></h2>
 <p>이떄는 일이 많았다. 걍 API 공장 수준으로 바쁠 때는 하루에 3개도 개발했기 때문에 리팩터링은 쉽지도 않았고 미팅도 많았고 윗 사람이 까다로워서 스트레스도 많이 받았다. 특히 블록체인 개발자 중 Golang을 조금 아신다는 분이 약간 끼인 층으로 많은 고통을 받으셨다. 하.. 나도 이제는 못 참겠다. 그만둬야지.. 어 CTO님 지나간다. 지금 말 해야지.</p>
 <blockquote>
 <p>"저!..할 말이 있는데요. 잠깐만."</p>
@@ -105,41 +105,41 @@
 <p>이건 내가 한 말이 아니다. 분명 내가 일어나려고 했는데 내 옆에서 먼저 자리를 박차고 가더니 CTO님과 대화를 진행하려던 블록체인 Golang 리더분이시다.</p>
 <p>뭐..뭐지 저건 이거 각인데 분명..역시 경험이 이렇게 중요하다. 이래서 경력자를 선호하는가 보다. 상태를 보니 딱 그만두려고 하는거 같았는데 역시나 그만두셨다. 굿! 타이밍 놓쳐서 말 못 하고 그냥 다시 다니게 되었다. 인생.. 쓰다 써.</p>
 <p>에휴 그래 걍 다나가라~ 혼자 개발할테니..</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="말에는-논리가-필요하다-데이터베이스가-그렇다">말에는 논리가 필요하다. 데이터베이스가 그렇다.<a href="https://ohju96.github.io/life/2023%EC%9D%80%20%EA%B2%BD%ED%97%98%EC%9D%84%20%EC%8C%93%EB%8A%94%20%EC%8B%9C%EA%B0%84%EC%9D%B4%EC%97%88%EB%8B%A4.#%EB%A7%90%EC%97%90%EB%8A%94-%EB%85%BC%EB%A6%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%98%EB%8B%A4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EA%B0%80-%EA%B7%B8%EB%A0%87%EB%8B%A4" class="hash-link" aria-label="말에는 논리가 필요하다. 데이터베이스가 그렇다.에 대한 직접 링크" title="말에는 논리가 필요하다. 데이터베이스가 그렇다.에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="말에는-논리가-필요하다-데이터베이스가-그렇다">말에는 논리가 필요하다. 데이터베이스가 그렇다.<a href="https://ohju96.github.io/life/1#%EB%A7%90%EC%97%90%EB%8A%94-%EB%85%BC%EB%A6%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%98%EB%8B%A4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EA%B0%80-%EA%B7%B8%EB%A0%87%EB%8B%A4" class="hash-link" aria-label="말에는 논리가 필요하다. 데이터베이스가 그렇다.에 대한 직접 링크" title="말에는 논리가 필요하다. 데이터베이스가 그렇다.에 대한 직접 링크">​</a></h2>
 <p>계속 기획이 생기면서 기능이 추가됨에 따라 데이터베이스를 점검하고 필요에 따라 관계를 체크하고 추가해 나갔다. 설계는 내 몪이었는데 꼼꼼하게 체크해서 가지고 가면 빠꾸먹었다.</p>
 <p>분명 맞게 설계한거 같은데 아니라고 한다. 문제는 아닌 이유는 납득이 안 되는데 맞는 이유를 설명할 수가 없었다. 이건 모르는거다. 그래서 공부하기 시작했다. 설명하기 위해서. 머릿속으로 아는 것 말고 논리있게 말을 할 수 있는 지식이 필요했다. 그래야 서로 납득하고 이해하며 같은 방향으로 생각하여 옳은 데이터를 쌓아나갈 수 있겠다 싶었다.</p>
 <p>지식을 쌓는 건 뭐 그냥 냅다 책 한권 사고 읽어본다. 책 내용을 기억할 필요는 없다. 책 읽어도 솔직히 잘 모른다. 책 읽었다고 다 알면 내가 이러고 있겠나 어디 천재하고 있겠지. 그냥 책은 필요할 때 마다 보고 놔두고 하는데 이게 맞다. 필요할 때 찾아보고 쓸 수 있으면 된다. 이게 반복되면 내 것이 되겠지.</p>
 <p>실제로 이런 과정은 나를 발전시킨 많은 경험 중 하나였다. 나중에는 간단한 사이드 프로젝트 정도는 데이터베이스를 깔끔하게 설계해 줄 수 있게 되었다. <a href="https://ohju96.github.io/docs/service/dodal-dodal/2023-12-21-%EB%8F%84%EB%8B%AC%EB%8F%84%EB%8B%AC" target="_blank" rel="noopener noreferrer">도달도달 서비스 데이터베이스'만' 참여하기!</a>도 마찬가지다. 여기에서 잘 경험을 쌓았기 때문에 좋은 사고를 하려고 노력할 수 있게 되었다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="이제야-조금-자리-잡고-있는-것-같네">이제야 조금 자리 잡고 있는 것 같네<a href="https://ohju96.github.io/life/2023%EC%9D%80%20%EA%B2%BD%ED%97%98%EC%9D%84%20%EC%8C%93%EB%8A%94%20%EC%8B%9C%EA%B0%84%EC%9D%B4%EC%97%88%EB%8B%A4.#%EC%9D%B4%EC%A0%9C%EC%95%BC-%EC%A1%B0%EA%B8%88-%EC%9E%90%EB%A6%AC-%EC%9E%A1%EA%B3%A0-%EC%9E%88%EB%8A%94-%EA%B2%83-%EA%B0%99%EB%84%A4" class="hash-link" aria-label="이제야 조금 자리 잡고 있는 것 같네에 대한 직접 링크" title="이제야 조금 자리 잡고 있는 것 같네에 대��한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="이제야-조금-자리-잡고-있는-것-같네">이제야 조금 자리 잡고 있는 것 같네<a href="https://ohju96.github.io/life/1#%EC%9D%B4%EC%A0%9C%EC%95%BC-%EC%A1%B0%EA%B8%88-%EC%9E%90%EB%A6%AC-%EC%9E%A1%EA%B3%A0-%EC%9E%88%EB%8A%94-%EA%B2%83-%EA%B0%99%EB%84%A4" class="hash-link" aria-label="이제야 조금 자리 잡고 있는 것 같네에 대한 직접 링크" title="이제야 조금 자리 잡고 있는 것 같네에 대한 직접 링크">​</a></h2>
 <p>그렇게 고생하고 개발하고 공유하고 반복하다 보니 이제야 자리 좀 잡은 것 같았다. 사람들은 여전히 들락날락 입사와 퇴사하기를 여럿 반복했으나 우리 개발팀은 이제야 처음으로 묵직해진 기분이었다.</p>
 <p>아직 서비스가 하고 싶은 게 많았고 발전할 게 많았기 때문에 개발할 것은 산더미였지만 그래도 방향은 괜찮았다. 사람도 늘어나기 시작해서 내가 처음에 왔을 때 10명 중반대 인원이 어느새 벌써 20명 후반대 인원으로 확장되었다.</p>
 <p>사무실도 공사해서 넓어졌고 많은 사람과 같이 일할 수 있게 되었다. 백엔드 개발팀도 기존 나 포함 2명에서 4명으로 늘어났고 이제야 개발다운 개발을 하는 느낌이 들었다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="다시-찾아온-고비">다시 찾아온 고비<a href="https://ohju96.github.io/life/2023%EC%9D%80%20%EA%B2%BD%ED%97%98%EC%9D%84%20%EC%8C%93%EB%8A%94%20%EC%8B%9C%EA%B0%84%EC%9D%B4%EC%97%88%EB%8B%A4.#%EB%8B%A4%EC%8B%9C-%EC%B0%BE%EC%95%84%EC%98%A8-%EA%B3%A0%EB%B9%84" class="hash-link" aria-label="다시 찾아온 고비에 대한 직접 링크" title="다시 찾아온 고비에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="다시-찾아온-고비">다시 찾아온 고비<a href="https://ohju96.github.io/life/1#%EB%8B%A4%EC%8B%9C-%EC%B0%BE%EC%95%84%EC%98%A8-%EA%B3%A0%EB%B9%84" class="hash-link" aria-label="다시 찾아온 고비에 대한 직접 링크" title="다시 찾아온 고비에 대한 직접 링크">​</a></h2>
 <p>서비스 방향이 뚜렷하지 못 했던거 같다. 내가 입사할 때 까지만 해도 메타버스 산업이 떠오르고 있었는데 이제는 의심을 받기 시작하더니 벌써 침체기에 들어갔다. 큰일이다. 많은 사람들이 나갔다. 거의 초창기 내가 처음 온 인원대로 돌아간 것 같았다.</p>
 <p>서비스 개발 속도도 느려졌다. 하지만 위기는 곧 기회라고 했던가 우리가 지금까지 했던 메타버스, 마켓, 전시 등 많은 서비스 경험중 제일 수요가 있었던 서비스를 살려 진행하는 것 같았다.</p>
 <blockquote>
 <p>"주현님 남을거에요?"</p>
 </blockquote>
 <p>나는 또 다시 남았다. 나름 재미있었다. 하고 싶은 것도 많았고 조금 아쉬운 것은 깊이 있는 기술을 들어가기 위한 어려움이 있다는 부분이 있었지만 혼자 공부해서 적용하면 되겠지라는 생각이어서 불편하지만 괜찮았다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="혀어어업상">혀어어업상!<a href="https://ohju96.github.io/life/2023%EC%9D%80%20%EA%B2%BD%ED%97%98%EC%9D%84%20%EC%8C%93%EB%8A%94%20%EC%8B%9C%EA%B0%84%EC%9D%B4%EC%97%88%EB%8B%A4.#%ED%98%80%EC%96%B4%EC%96%B4%EC%97%85%EC%83%81" class="hash-link" aria-label="혀어어업상!에 대한 직접 링크" title="혀어어업상!에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="혀어어업상">혀어어업상!<a href="https://ohju96.github.io/life/1#%ED%98%80%EC%96%B4%EC%96%B4%EC%97%85%EC%83%81" class="hash-link" aria-label="혀어어업상!에 대한 직접 링크" title="혀어어업상!에 대한 직접 링크">​</a></h2>
 <p>연봉 협상도 1년차에 진행되었다. 생각보다 어려웠다. 내가 이전보다 다른 월급을 받아야 하는 이유를 제시해야 했고 타당해야 했다. 앞으로 내가 어떻게 기여할 수 있을지에 대해서도 논의해 봐야 했다.</p>
 <p>나는 기여한 게 많았다. 특히 헬 같은 프로젝트 패키지 구조를 변경한 점은 많은 유지보수 비용을 줄여줬다. 그리고 짧게나마 적어온 문서와 주석은 새로운 사람이 들어왔을 때 도메인을 이해하는 데 드는 시간을 많이 줄여줬으며 빠른 시간에 높은 생산성을 제공해 빠르게 프로젝트에 기여하는데 도움을 많이 주었다.</p>
 <p>서비스 기획 미팅을 내가 메인으로 들어가진 않아서 기획 관련해서는 다른 분이 더 잘 알았지만 처음에 서비스 이해하는데 있어서는 내가 많은 도움을 주었다.</p>
 <p>이런 것을 바탕으로 그래도 두 자릿수 대 퍼센트로 연봉이 오르게 되었다. 물론 오른 월급을 받기 전에 그만두었지만..</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="내가-줄-수-있는-것과-내가-얻을-수-있는-것을-끝낸-것-같다는-생각이-들었다">내가 줄 수 있는 것과 내가 얻을 수 있는 것을 끝낸 것 같다는 생각이 들었다.<a href="https://ohju96.github.io/life/2023%EC%9D%80%20%EA%B2%BD%ED%97%98%EC%9D%84%20%EC%8C%93%EB%8A%94%20%EC%8B%9C%EA%B0%84%EC%9D%B4%EC%97%88%EB%8B%A4.#%EB%82%B4%EA%B0%80-%EC%A4%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EA%B2%83%EA%B3%BC-%EB%82%B4%EA%B0%80-%EC%96%BB%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EA%B2%83%EC%9D%84-%EB%81%9D%EB%82%B8-%EA%B2%83-%EA%B0%99%EB%8B%A4%EB%8A%94-%EC%83%9D%EA%B0%81%EC%9D%B4-%EB%93%A4%EC%97%88%EB%8B%A4" class="hash-link" aria-label="내가 줄 수 있는 것과 내가 얻을 수 있는 것을 끝낸 것 같다는 생각이 들었다.에 대한 직접 링크" title="내가 줄 수 있는 것과 내가 얻을 수 있는 것을 끝낸 것 같다는 생각이 들었다.에 대��한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="내가-줄-수-있는-것과-내가-얻을-수-있는-것을-끝낸-것-같다는-생각이-들었다">내가 줄 수 있는 것과 내가 얻을 수 있는 것을 끝낸 것 같다는 생각이 들었다.<a href="https://ohju96.github.io/life/1#%EB%82%B4%EA%B0%80-%EC%A4%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EA%B2%83%EA%B3%BC-%EB%82%B4%EA%B0%80-%EC%96%BB%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EA%B2%83%EC%9D%84-%EB%81%9D%EB%82%B8-%EA%B2%83-%EA%B0%99%EB%8B%A4%EB%8A%94-%EC%83%9D%EA%B0%81%EC%9D%B4-%EB%93%A4%EC%97%88%EB%8B%A4" class="hash-link" aria-label="내가 줄 수 있는 것과 내가 얻을 수 있는 것을 끝낸 것 같다는 생각이 들었다.에 대한 직접 링크" title="내가 줄 수 있는 것과 내가 얻을 수 있는 것을 끝낸 것 같다는 생각이 들었다.에 대한 직접 링크">​</a></h2>
 <p>회사의 성장이 나의 성장으로 이어진다는 말은 믿지 않는다. 내 성장만이 나를 성장시킬 수 있다. 반대로 말 하면 내 성장은 회사에 도움이 되지만, 회사의 성장은 내게 도움이 되지 않는다. 그런 의미에서 이 회사에서 나는 더 받을 게 없었고, 더 줄 게 없게 되었다.</p>
 <p>너무 쉽게 프로젝트를 만들어 두었고, 이해하기 편하게 문서와 주석을 잘 달아두어 인수인계할 것도 적었다.</p>
 <p>고민을 많이 했다. 회사에 줄 수 있는 서비스 개발, 내가 얻을 수 있는 경험. 나는 충분한 경험을 했다고 생각한다. 더 이상 경험이 빠르게 늘지 않을 것 임을 스스로 확신했다. 이제 기술을 익히고 싶다. 하지만 이 회사에서 내가 기술을 익히는데 한계가 있다. 일단 Java 진영으로 돌아가고 싶었다.</p>
 <p>Golang은 생각보다 일자리가 없었고, 깊게 사용하기 위해 찾아 볼 자료도 많이 없었다. 공식문서도 생각보다 빈약했다. 그래서 기능을 개발할 때 Java로 된 문서를 보고 어떻게 Golnag으로 변경할지 많이 고민했던 적도 있다.</p>
 <p>내가 받는 대우에 대해서도 고민해 볼 필요가 있었다. 여러모로 조금 불편한 부분도 있었기 때문에 결국 그만두기로 결정했다. 퇴사 과정은 빠르게 진행되었다. 퇴사에 대해서 고민해 보라는 말도 들었지만 나는 확고했다.</p>
 <p>그렇게 나는 최근에 내 첫 회사를 떠나게 되었다. 1년 2개월 조금 넘게 다닌 것 같다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="여유가-찾아왔다">여유가 찾아왔다.<a href="https://ohju96.github.io/life/2023%EC%9D%80%20%EA%B2%BD%ED%97%98%EC%9D%84%20%EC%8C%93%EB%8A%94%20%EC%8B%9C%EA%B0%84%EC%9D%B4%EC%97%88%EB%8B%A4.#%EC%97%AC%EC%9C%A0%EA%B0%80-%EC%B0%BE%EC%95%84%EC%99%94%EB%8B%A4" class="hash-link" aria-label="여유가 찾아왔다.에 대한 직접 링크" title="여유가 찾아왔다.에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="여유가-찾아왔다">여유가 찾아왔다.<a href="https://ohju96.github.io/life/1#%EC%97%AC%EC%9C%A0%EA%B0%80-%EC%B0%BE%EC%95%84%EC%99%94%EB%8B%A4" class="hash-link" aria-label="여유가 찾아왔다.에 대한 직접 링크" title="여유가 찾아왔다.에 대한 직접 링크">​</a></h2>
 <p>저번주에 그만둔 것 같은데 여유가 찾아왔다. 내가 해야 할 것도 정리해 봤고, 하고 싶은 것도 정리해 봤다. 일단 2023 회고 작성을 시작으로 내 두 번째 회사를 찾아볼 예정이다.</p>
 <p>데이터베이스 관련 업종 예를 들면 DBA도 재밌을 것 같다. 더 깊은 공부가 필요하겠지만.. 그리고 Spring도 좋다. 인프라는 생각보다 조금 꺼려졌고 창업도 좋을 것 같다. 영어 공부하러 워홀가는 것도 좋을 것 같고. 그냥 모아둔 돈으로 어학연수 떠나는 것도 좋을 것 같다.</p>
 <p>사실 퇴사하고 캐나다 워홀을 신청해 두었다. 갈지 안 갈지, 될 지 안 될지는 모르지만 인생 뭐 있나. 하고 싶은거 하면서 재밌는 개발 하면서 사는 게 내 꿈이다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2024-너가-기대된다">2024 너가 기대된다.<a href="https://ohju96.github.io/life/2023%EC%9D%80%20%EA%B2%BD%ED%97%98%EC%9D%84%20%EC%8C%93%EB%8A%94%20%EC%8B%9C%EA%B0%84%EC%9D%B4%EC%97%88%EB%8B%A4.#2024-%EB%84%88%EA%B0%80-%EA%B8%B0%EB%8C%80%EB%90%9C%EB%8B%A4" class="hash-link" aria-label="2024 너가 기대된다.에 대한 직접 링크" title="2024 너가 기대된다.에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2024-너가-기대된다">2024 너가 기대된다.<a href="https://ohju96.github.io/life/1#2024-%EB%84%88%EA%B0%80-%EA%B8%B0%EB%8C%80%EB%90%9C%EB%8B%A4" class="hash-link" aria-label="2024 너가 기대된다.에 대한 직접 링크" title="2024 너가 기대된다.에 대한 직접 링크">​</a></h2>
 <p>알고리즘 드럽게 못 한다. 2024 넌 잘 해 봐라.. 창업 프로토타입 모델을 만드는 것도 재밌을 것 같다. 나는 아이디어 뱅크니까 개발만 잘 하면 된다. 부족한 개발 실력 인정이다. 더 노력하자. 연차가 없더라도 나보다 잘 하는 사람 널렸다. 겸손하자. 작은 사람에게도 배울 수 있는 사람이 되야겠다. 말에 논리도 좀 더하자. 그래야 남이 내 말을 믿고 따라올 수 있다. 주저리 주저리 2024 너가 기대된다.!</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="그리고-못-적은-것들">그리고 못 적은 것들..<a href="https://ohju96.github.io/life/2023%EC%9D%80%20%EA%B2%BD%ED%97%98%EC%9D%84%20%EC%8C%93%EB%8A%94%20%EC%8B%9C%EA%B0%84%EC%9D%B4%EC%97%88%EB%8B%A4.#%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%AA%BB-%EC%A0%81%EC%9D%80-%EA%B2%83%EB%93%A4" class="hash-link" aria-label="그리고 못 적은 것들..에 대한 직접 링크" title="그리고 못 적은 것들..에 대한 직접 링크">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="그리고-못-적은-것들">그리고 못 적은 것들..<a href="https://ohju96.github.io/life/1#%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%AA%BB-%EC%A0%81%EC%9D%80-%EA%B2%83%EB%93%A4" class="hash-link" aria-label="그리고 못 적은 것들..에 대한 직접 링크" title="그리고 못 적은 것들..에 대한 직접 링크">​</a></h4>
 <blockquote>
 <p>오랜만에 다시 시작해서 반년 가까이 진행했던 스터디. 좋은 사람들 만나고 경력 많은 분들 만나서 많은 조언을 들을 수 있었다.</p>
 <p>고랭을 배우기 위해 세미나와 열정 넘치는 개발자들 만나서 이야기를 듣고 왔다.</p>
