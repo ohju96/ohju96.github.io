@@ -6,7 +6,7 @@
 
 ## 패턴을 구현해보자.
 
-### Car class
+### 1. Car class
 
 ```java
 public class Car {
@@ -19,7 +19,7 @@ public class Car {
 - 자동차 클래스를 정의해 준다.
 - 이름, 색상, 로고에 대한 데이터를 갖고 있다.
 
-### CarFactory interface
+### 2. CarFactory interface
 
 ```java
 public interface CarFactory {
@@ -57,7 +57,7 @@ public interface CarFactory {
 - default를 통해 자동차 주문에 대한 인터페이스를 생성해 준다.
 - 인터페이스 내에서 `검사` `준비` `생성` `알림` 을 진행한다.
 
-### WhiteCar class
+### 3. WhiteCar class
 
 ```java
 public class WhiteCar extends Car {
@@ -72,7 +72,7 @@ public class WhiteCar extends Car {
 
 - Car 클래스를 상속 받아서 WhiteCar를 만들어 준다.
 
-### WhiteCarFactory class
+### 4. WhiteCarFactory class
 
 ```java
 public class WhiteCarFactory implements CarFactory {
@@ -87,7 +87,7 @@ public class WhiteCarFactory implements CarFactory {
 
 - CarFactory 인터페이스에 있는 createCar()를 오버라이드 해서 WhiteCar를 리턴해준다.
 
-### Client class
+### 5. Client class
 
 ```java
 public class Client {
@@ -111,7 +111,7 @@ Car{name='White Car', color='White', logo='White Logo'}
 
 ## 그럼, Black Car를 생성하려면 어떻게 해야 하나?
 
-### BlockCar class
+### 1. BlockCar class
 
 ```java
 public class BlackCar extends Car {
@@ -125,7 +125,7 @@ public class BlackCar extends Car {
 
 - Car를 상속받아 Black를 만들어준다.
 
-### BlockCarFactory class
+### 2. BlockCarFactory class
 
 ```java
 public class BlackCarFactory implements CarFactory {
@@ -138,7 +138,7 @@ public class BlackCarFactory implements CarFactory {
 
 - CarFactory 인터페이스를 구현해서 BlackCar를 리턴해 준다.
 
-### Client class
+### 3. Client class
 
 ```java
 public class Client {
@@ -170,7 +170,7 @@ Car{name='Black Car', color='Black', logo='Black Logo'}
 
 - 새로운 색상의 자동차가 생성 될 때 마다 클라이언트 코드가 변경되는 게 아닌가? 이것이 과연 변경에 닫혀있는 게 맞는가? 이런 의문을 가질 수 있다. 때문에 의존성 주입을 통해 클라이언트 코드를 최대한 변경하지 않는 방법으로 구현해야 한다.
 
-### 변경되는 클라이언트 코드는 DI를 통해 해결할 수 있다.
+### 1. 변경되는 클라이언트 코드는 DI를 통해 해결할 수 있다.
 
 ```java
 public class Client {
@@ -207,7 +207,7 @@ Block → Black으로 보면 된다.(오타)
 
 ## Factory method 관련 질문 리스트
 
-### Factory method 장점과 단점은 무엇인가?
+### 1. Factory method 장점과 단점은 무엇인가?
 
 - 장점
     - OCP를 적용해서 기존 코드를 건드리지 않고 비슷한 류의 새로운 인스턴스를 다른 방법으로 확장이 가능하다는 장점이 있다.
@@ -215,26 +215,26 @@ Block → Black으로 보면 된다.(오타)
 - 단점
     - 팩토리 패턴을 적용하면 각자의 역할을 지정하다 보니 클래스 수가 늘어나 복잡해 진다는 단점이 있다.
 
-### OCP란 무엇인가?
+### 2. OCP란 무엇인가?
 
 - OCP는 기존 코드를 변경하지 않으면서 새로운 기능을 얼마든지 확장할 수 있는 구조를 만드는 객체 지향 원칙을 말한다.
 - Factory method를 통해 OCP를 적용할 수 있다.
 - 예시로, 위에서 `하얀 자동차`를 만들고 `검은 자동차`를 추가적으로 만들 때 `하얀 자동차`에 대한 코드 수정이 없었다.
 
-### Java 8에 추가된 default 메서드는 무엇인가?
+### 3. Java 8에 추가된 default 메서드는 무엇인가?
 
 - 자바 8에 들어간 default를 통해 인터페이스에서 구현체를 만들 수 있게 되었다.
 - 기존엔 추상 메서드만 만들 수 있었고 구현 클래스에서 구현했어야 했는데 Java 8부터는 인터페이스에 기본 구현체를 만들 수 있어서 구현하는 인터페이스나 상속 받는 인터페이스에서 사용할 수 있게 되었다.
 - 그렇기 때문에 Java 7 이하와 다르게 추상 클래스를 많이 안 쓰게 되었다. 왜냐하면 인터페이스에서 많은 사용이 가능해졌기 때문이다.
 
-### Java 9에 추가된 Private Interface Method는 무엇인가?
+### 4. Java 9에 추가된 Private Interface Method는 무엇인가?
 
 - 인터페이스를 구현하는 클래스에서 공통으로 처리하는 메서드 등 구현에 대한 세부 정보를 숨길 수 있고 이는 결과적으로 좀 더 캡슐화 시킬 수 있게 도와주는 메서드이다.
 - 9 버전 이전에는 interface에서 pirvate를 사용하면 compile time 에러가 발생한다.
 
 ## Factory method 패턴은 어디에서 쓰일까?
 
-### Simple factory method
+### 1. Simple factory method
 
 ```java
 public class SimpleFactory {
@@ -251,7 +251,7 @@ public class SimpleFactory {
 
 - 단순하게 키워드로 구분하여 인스턴스를 생성하는 팩터리 메서드이다.
 
-### Calender
+### 2. Calender
 
 ```java
 import java.util.Calendar;
@@ -294,7 +294,7 @@ if (aLocale.hasExtensions()) {
 
 - 파라미터 값에 따라 각기 다른 인스턴스를 만들어주는 간단한 형태의 팩터리 메서드가 적용되어 있다.
 
-### Spring Bean Factory
+### 3. Spring Bean Factory
 
 ```java
 BeanFactory xmlFactory = new ClassPathXmlApplicationContext("config.xml");
